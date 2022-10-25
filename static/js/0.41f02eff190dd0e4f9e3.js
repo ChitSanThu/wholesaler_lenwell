@@ -1,0 +1,1 @@
+webpackJsonp([0],{mAJy:function(n,p,o){n.exports=o.p+"static/img/kong.2e411f8.png"}});
